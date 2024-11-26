@@ -8,6 +8,7 @@ To run this project, you'll need the following Python libraries:
 - pandas
 
 You can install them using pip:
+
 pip install pandas
 
 ## Data Overview
